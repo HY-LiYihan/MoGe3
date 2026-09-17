@@ -1,0 +1,12 @@
+# 模型权重（6+ GB，超出 GitHub 限制）
+checkpoints/
+
+# 推理输出（生成物，不入库）
+outputs/
+
+# Python
+__pycache__/
+*.pyc
+
+# 虚拟环境（3.4 GB）
+MoGe/.venv/
