@@ -10,3 +10,7 @@ __pycache__/
 
 # 虚拟环境（3.4 GB）
 MoGe/.venv/
+
+# 独立仓库（vggt-omega 是单独的 GitHub 仓库，含自身 .git）
+vggt-omega/
+vggt-omega.tar
